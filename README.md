@@ -1,5 +1,5 @@
-DMenu: Quiet, XY, WH, Xft
-=========================
+DMenu: Quiet, XY, WH, Xft, fuzzy
+================================
 Basically I wanted to arbitrarily position and size DMenu. Also, I wanted Xft..
 
 Patches Applied 
@@ -8,3 +8,4 @@ Patches Applied
 [QXYW](http://github.com/baskerville/dmenu_qxyw)
 [Xft support](http://aur.archlinux.org/packages.php?ID=59497)
 [Height](http://aur.archlinux.org/packages.php?ID=59497)
+[fuzzy](http://lists.suckless.org/dev/1209/12505.html)
